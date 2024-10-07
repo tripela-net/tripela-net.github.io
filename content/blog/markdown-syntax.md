@@ -1,7 +1,7 @@
 +++
 author = "Tripela Authors"
 title = "Markdown Syntax Guide"
-date = "2019-03-11"
+date = "2030-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 +++
 
