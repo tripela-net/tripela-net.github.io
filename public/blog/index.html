@@ -1,114 +1,243 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
-<title>Blog | Tripela @ Blog</title>
-<meta name="title" content="Blog" />
-<meta name="description" content="Cloud based light, flexible Automatic vehicle location (AVL) solution that follows the latest transportation standards. It provides management and control over operations and delivers real-time information to passengers." />
-<meta name="author" content="" />
-<meta name="keywords" content="" />
+<!doctype html>
 
 
 
 
 
 
-  
-  <meta property="og:url" content="http://localhost:1313/blog/">
-  <meta property="og:site_name" content="Tripela @ Blog">
-  <meta property="og:title" content="Blog">
-  <meta property="og:description" content="Cloud based light, flexible Automatic vehicle location (AVL) solution that follows the latest transportation standards. It provides management and control over operations and delivers real-time information to passengers.">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-    <meta property="og:image" content="http://localhost:1313/images/share.webp">
-        <meta property="fb:admins" content="0000000000">
 
 
-  
-  
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/images/share.webp">
-  <meta name="twitter:title" content="Blog">
-  <meta name="twitter:description" content="Cloud based light, flexible Automatic vehicle location (AVL) solution that follows the latest transportation standards. It provides management and control over operations and delivers real-time information to passengers.">
-      <meta name="twitter:site" content="@example">
 
 
-  
-  
-  <meta itemprop="name" content="Blog">
-  <meta itemprop="description" content="Cloud based light, flexible Automatic vehicle location (AVL) solution that follows the latest transportation standards. It provides management and control over operations and delivers real-time information to passengers.">
-  <meta itemprop="datePublished" content="2024-10-07T10:01:30+02:00">
-  <meta itemprop="dateModified" content="2030-03-11T00:00:00+00:00">
-  <meta itemprop="image" content="http://localhost:1313/images/share.webp">
 
-<meta name="referrer" content="no-referrer-when-downgrade" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
   
-  <link href="/original.min.css" rel="stylesheet">
+  <title>Blog - Tripela</title>
 
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="A personal blog"
+  />
+  <meta name="author" content="Tripela" />
   
 
   
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/index.xml" title="Tripela @ Blog" />
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  <link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/148349006?s=200&v=4" />
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
+
+  
+  <meta name="generator" content="Hugo 0.135.0">
+
+  
+  
   
 </head>
 
-<body>
-  <header><a class="skip-link" href="#main-content">Skip to main content</a>
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
+  <div class="relative z-50 ltr:mr-auto rtl:ml-auto flex items-center">
+    <a class="-translate-y-[1px] text-2xl font-medium" href="http://localhost:1313/"
+      ></a
+    >
+  </div>
 
-<a href="/" class="title"><h1>Tripela @ Blog</h1></a>
-<nav>
-  <a href="/">Home</a>
+  <div
+    class="btn-menu relative z-50 ltr:-mr-8 rtl:-ml-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
 
-  <a href="/blog/">Blog</a>
+  
 
-<a href='http://localhost:1313/index.xml'>RSS</a>
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
 
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
 
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
 
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
 
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
 
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
 
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
 
-</nav>
+    
+
+    
+  </div>
 </header>
-  <main id="main-content">
-<content>
-  
-  <ul class="blog-posts">
-    
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-10-07' pubdate>
-            2024-10-07
-          </time>
-        </i>
-      </span>
-      
-        <a href="/blog/2024-10-07-innotrans-2024-berlin/">InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</a>
-      
-    </li>
-    
-  </ul>
-  
-    <div>
-      
-    </div>
-  
-</content>
 
-  </main>
-  <footer><small>
-  Created by Tripela Team | Made with <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a>
-</small></footer>
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
+    >
+      
 
-    
-</body>
 
+
+
+
+
+
+
+
+ 
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0">InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</h2>
+  <time class="text-xs antialiased opacity-60"
+    >Oct 7, 2024</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/blog/2024-10-07-innotrans-2024-berlin/">InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0">Markdown Syntax Guide</h2>
+  <time class="text-xs antialiased opacity-60"
+    >Mar 11, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/blog/markdown-syntax/">Markdown Syntax Guide</a>
+</section>
+
+
+
+
+
+
+    </main>
+
+    <footer
+  class="mx-auto flex h-[4.5rem] max-w-[--w] items-center px-8 text-xs uppercase tracking-wider opacity-60"
+>
+  <div class="mr-auto">
+  
+    © 2024, tripela.net
+  
+  </div>
+    Created by Tripela Team with Hugo Paper
+</footer>
+
+  </body>
 </html>

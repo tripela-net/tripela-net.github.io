@@ -1,64 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Tripela @ Blog</title>
+    <title>Blog on Tripela</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Tripela @ Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>hola@tripela.net (tripela)</managingEditor>
-    <webMaster>hola@tripela.net (tripela)</webMaster>
-    <copyright>Created by Tripela Team</copyright>
-    <lastBuildDate>Mon, 11 Mar 2030 00:00:00 +0000</lastBuildDate>
+    <description>Recent content in Blog on Tripela</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024, tripela.net</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 10:01:30 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</title>
       <link>http://localhost:1313/blog/2024-10-07-innotrans-2024-berlin/</link>
-      <pubDate>Mon, 07 Oct 2024 10:01:30 +0200</pubDate><author>hola@tripela.net (tripela)</author>
+      <pubDate>Mon, 07 Oct 2024 10:01:30 +0200</pubDate>
       <guid>http://localhost:1313/blog/2024-10-07-innotrans-2024-berlin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;InnoTrans 2024, held from September 24 to 27, has concluded, marking another successful chapter in the world’s largest trade fair for transport technology. This year, the event broke records, featuring 2,940 exhibitors from 59 countries, occupying a total area of 200,000 square meters at the Berlin Exhibition Grounds.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;highlights-from-innotrans-2024&#34;&gt;Highlights from InnoTrans 2024&lt;/h2&gt;&#xA;&lt;p&gt;InnoTrans 2024 set a new standard for trade fairs. The exhibition showcased a staggering 226 world premieres, including cutting-edge technologies like &lt;a href=&#34;https://www.urban-transport-magazine.com/en/innotrans-2024-the-overview/&#34;&gt;battery-hydrogen fuel cell locomotives&lt;/a&gt; and AI-supported algorithms for transport efficiency.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><strong>InnoTrans 2024, held from September 24 to 27, has concluded, marking another successful chapter in the world’s largest trade fair for transport technology. This year, the event broke records, featuring 2,940 exhibitors from 59 countries, occupying a total area of 200,000 square meters at the Berlin Exhibition Grounds.</strong></p>
-<h2 id="highlights-from-innotrans-2024">Highlights from InnoTrans 2024</h2>
-<p>InnoTrans 2024 set a new standard for trade fairs. The exhibition showcased a staggering 226 world premieres, including cutting-edge technologies like <a href="https://www.urban-transport-magazine.com/en/innotrans-2024-the-overview/">battery-hydrogen fuel cell locomotives</a> and AI-supported algorithms for transport efficiency.</p>
-<h2 id="focus-on-key-themes">Focus on Key Themes</h2>
-<p>The main topics of discussion revolved around:</p>
-<ul>
-<li><strong>Sustainability:</strong> Innovations aimed at reducing environmental impact were front and center.</li>
-<li><strong>Electrification:</strong> The transition to electric transport solutions was emphasized.</li>
-<li><strong>Digitalization:</strong> Digital technologies continue to reshape the transport landscape.</li>
-<li><strong>Artificial Intelligence:</strong> The AI Mobility Lab featured 42 exhibitors showcasing advancements in AI, robotics, and cybersecurity.</li>
-</ul>
-<h2 id="notable-events">Notable Events</h2>
-<p>The opening ceremony featured prominent figures such as <strong>Dr. Volker Wissing</strong>, Germany&rsquo;s Federal Minister of Transport, who inaugurated the event alongside industry leaders. A panel discussion titled &ldquo;From Hype to Reality – AI in the Mobility Sector&rdquo; attracted significant attention, with discussions led by CEOs from major companies like Deutsche Bahn and Siemens Mobility.</p>
-<h2 id="unife-dialogue-forum">UNIFE Dialogue Forum</h2>
-<p>On September 26, the UNIFE Dialogue Forum hosted a session titled &ldquo;Driving Efficiency and Performance in Railway Systems through ERTMS.&rdquo; This forum explored how the European Rail Traffic Management System (ERTMS) can enhance railway efficiency and safety, featuring insights from various industry experts. The discussions highlighted ongoing projects across Europe aimed at improving interoperability and reducing travel times.</p>
-<h2 id="women-in-rail-award">Women in Rail Award</h2>
-<p>The Women in Rail Award 2024 recognized outstanding contributions by women in the rail industry during a ceremony held on September 24. This year, three exceptional winners were honored for their significant achievements:</p>
-<ul>
-<li><strong>Maria-Luisa Dominguez</strong>, President of <strong>ADIF</strong>, won the <strong>Leadership and Mentoring</strong> category for her exemplary role in guiding the next generation of women in rail.</li>
-<li><strong>Metro Istanbul</strong> was recognized in the <strong>Women Empowerment</strong> category for their commitment to fostering a workplace where women can thrive and advance.</li>
-<li><strong>Veronica Elena Bocci</strong>, from <strong>DICTEFER</strong>, received the award in the Research and Innovation category for her significant contributions to rail technology and innovation.</li>
-</ul>
-<p>These awards celebrate the vital role women play in driving innovation and sustainability within the rail sector, aiming to inspire more women to join the industry and create a pipeline of future talent and leadership.</p>
-<h2 id="ai-mobility-lab">AI Mobility Lab</h2>
-<p>A highlight of InnoTrans 2024 was the AI Mobility Lab, which showcased over 42 exhibitors specializing in AI, robotics, and cybersecurity solutions for public transport. Notable presentations included:</p>
-<ul>
-<li>A demonstration by <strong>Next Generation Robotics</strong>, featuring a multimodal robotic platform designed for inspecting rail vehicle running gear.</li>
-<li>An innovative AI-based video analysis tool presented by <strong>Isarsoft</strong>, aimed at improving planning, operations, and security within transport systems.</li>
-</ul>
-<h2 id="product-launches-and-innovations">Product Launches and Innovations</h2>
-<p>InnoTrans 2024 featured 226 world premieres, including:</p>
-<ul>
-<li>A groundbreaking battery-hydrogen fuel cell locomotive that promises to revolutionize sustainable rail travel.</li>
-<li>An AI-supported algorithm designed to optimize timetables and improve barrier-free boarding for long-distance transport.</li>
-<li>Innovative materials like anti-graffiti film for glass surfaces, demonstrating advancements in both functionality and aesthetics.</li>
-</ul>
-<h2 id="networking-opportunities">Networking Opportunities</h2>
-<p>With over 1,000 international guests representing various sectors, InnoTrans served as a vital networking hub. Attendees had the chance to engage with decision-makers and explore potential collaborations that could shape the future of mobility. We noticed as well that InnoTrans is an incredible opportunity to form valuable connections that could lead to groundbreaking projects in the coming years.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>InnoTrans 2024 has once again proven its significance in the transport technology sector by bringing together industry leaders, innovators, and policymakers under one roof. The talks, awards, and product launches showcased not only technological advancements but also a collective vision for the future of transportation. As we look forward to InnoTrans 2026, the insights gained and connections made during this year’s event will undoubtedly influence the trajectory of mobility solutions worldwide.</p>
-<p>With sustainability at its core, InnoTrans continues to drive change and inspire innovation for a greener tomorrow.</p>
-]]></content:encoded>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
