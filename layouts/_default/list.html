@@ -4,7 +4,6 @@
 {{ if and .Title (eq .Type "tags") }}
 <h1 class="mb-14">#{{ .Title }}</h1>
 {{ end }}
-
 <!-- $pages -->
 {{ $pages := union .RegularPages .Sections }}<!---->
 {{ if .IsHome }}<!---->
@@ -53,6 +52,7 @@
   >
   {{ end }}
   <h2 class="!my-0">{{ .Title }}</h2>
+  <p class="p-2">{{ .Description }}</p>
   <time class="text-xs antialiased opacity-60"
     >{{ .Date | time.Format ":date_medium" }}</time
   >
