@@ -1,7 +1,6 @@
 baseURL = "https://blog.tripela.net/"
 author = "Tripela Team"
 copyright = "© 2024, tripela.net"
-paginate = 30
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -57,3 +56,6 @@ disableInlineCSS = true
 
 [services.twitter]
 disableInlineCSS = true
+
+[pagination]
+pagerSize = 30
