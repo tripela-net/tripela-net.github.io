@@ -9,14 +9,11 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "paper"
-title = "Tripela"
+title = "Tripela - Blogsite"
 
 [params]
 color = 'linen'
 
-
-avatar = 'orban.levi.94@gmail.com'
 name = 'Tripela'
 bio = 'Tripela is a vehicle tracking system for public transport built to support transportation standards with open data model in real-time.'
 # ------------------------------
@@ -31,22 +28,6 @@ unsafe = true
 
 [menu]
 
-# [[menu.main]]
-# identifier = "about"
-# name = "About"
-# url = "/about/"
-# weight = 10
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 10
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
 [privacy]
 
 [services]
@@ -59,3 +40,9 @@ disableInlineCSS = true
 
 [pagination]
 pagerSize = 30
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"

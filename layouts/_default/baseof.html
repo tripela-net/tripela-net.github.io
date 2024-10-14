@@ -1,0 +1,34 @@
+<!doctype html>
+
+{{ $.Scratch.Delete "bg_color" }}<!---->
+{{ $.Scratch.Delete "social_list" }}<!---->
+
+<!-- bg_color -->
+{{ $color_map := dict "linen" "#faf8f1" "wheat" "#f8f5d7" "gray" "#fbfbfb"
+"light" "#fff" }}<!---->
+{{ $.Scratch.Set "bg_color" (index $color_map (site.Params.color | default
+(print "linen"))) }}<!---->
+{{ $bg_color := $.Scratch.Get "bg_color" }}<!---->
+
+
+{{ $avatar_url := "https://avatars.githubusercontent.com/u/148349006?s=200&v=4" }}<!---->
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: {{ $bg_color }}"
+  lang="{{ or site.LanguageCode site.Language.Lang }}"
+  dir="{{ if site.Params.direction }}{{ site.Params.direction }}{{ else }}ltr{{ end }}"
+>
+  {{ partial "head.html" . }}
+  <body class="text-black duration-200 ease-out dark:text-white">
+    {{ partial "header.html" . }}
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
+    >
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>

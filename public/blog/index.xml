@@ -1,3 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Tripela</title><link>https://blog.tripela.net/blog/</link><description>Recent content in Blog on Tripela</description><generator>Hugo</generator><language>en</language><copyright>© 2024, tripela.net</copyright><lastBuildDate>Mon, 07 Oct 2024 10:01:30 +0200</lastBuildDate><atom:link href="https://blog.tripela.net/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</title><link>https://blog.tripela.net/blog/2024-10-07-innotrans-2024-berlin/</link><pubDate>Mon, 07 Oct 2024 10:01:30 +0200</pubDate><guid>https://blog.tripela.net/blog/2024-10-07-innotrans-2024-berlin/</guid><description>&lt;p>&lt;strong>InnoTrans 2024, held from September 24 to 27, has concluded, marking another successful chapter in the world’s largest trade fair for transport technology. This year, the event broke records, featuring 2,940 exhibitors from 59 countries, occupying a total area of 200,000 square meters at the Berlin Exhibition Grounds.&lt;/strong>&lt;/p>
-&lt;h2 id="highlights-from-innotrans-2024">Highlights from InnoTrans 2024&lt;/h2>
-&lt;p>InnoTrans 2024 set a new standard for trade fairs. The exhibition showcased a staggering 226 world premieres, including cutting-edge technologies like &lt;a href="https://www.urban-transport-magazine.com/en/innotrans-2024-the-overview/">battery-hydrogen fuel cell locomotives&lt;/a> and AI-supported algorithms for transport efficiency.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Tripela - Blogsite</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Tripela - Blogsite</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024, tripela.net</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 10:01:30 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InnoTrans 2024: A Landmark Event Shaping the Future of Transport Technology</title>
+      <link>http://localhost:1313/blog/2024-10-07-innotrans-2024-berlin/</link>
+      <pubDate>Mon, 07 Oct 2024 10:01:30 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2024-10-07-innotrans-2024-berlin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;InnoTrans 2024, held from September 24 to 27, has concluded, marking another successful chapter in the world’s largest trade fair for transport technology. This year, the event broke records, featuring 2,940 exhibitors from 59 countries, occupying a total area of 200,000 square meters at the Berlin Exhibition Grounds.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;highlights-from-innotrans-2024&#34;&gt;Highlights from InnoTrans 2024&lt;/h2&gt;&#xA;&lt;p&gt;InnoTrans 2024 set a new standard for trade fairs. The exhibition showcased a staggering 226 world premieres, including cutting-edge technologies like &lt;a href=&#34;https://www.urban-transport-magazine.com/en/innotrans-2024-the-overview/&#34;&gt;battery-hydrogen fuel cell locomotives&lt;/a&gt; and AI-supported algorithms for transport efficiency.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
