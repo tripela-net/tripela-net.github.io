@@ -1,7 +1,7 @@
 +++
 title = 'How PTAs and PTOs Can Maximalize Collaboration with ITxPT'
 date = 2024-10-20
-authors = Tripela Authors
+authors = "Tripela Authors"
 description = "Discover how PTAs and PTOs can enhance collaboration through ITxPT, improving efficiency, cost savings, and service delivery in public transport."
 +++
 
