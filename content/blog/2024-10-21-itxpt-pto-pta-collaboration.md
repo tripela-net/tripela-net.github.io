@@ -1,7 +1,8 @@
 +++
 title = 'How PTAs and PTOs Can Maximalize Collaboration with ITxPT'
 date = 2024-10-20
-draft = true
+authors = Tripela Authors
+description = "Discover how PTAs and PTOs can enhance collaboration through ITxPT, improving efficiency, cost savings, and service delivery in public transport."
 +++
 
 **Effective collaboration between Passenger Transport Authorities (PTAs) and Public Transport Operators (PTOs) is essential for delivering efficient and reliable services. The implementation of ITxPT (Information Technology for Public Transport) standards offers a robust framework that enhances this partnership through technical solutions that yield significant business benefits.**
