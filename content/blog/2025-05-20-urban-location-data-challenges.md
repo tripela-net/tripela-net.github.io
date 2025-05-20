@@ -2,7 +2,7 @@
 title = 'GPS in Urban Canyons: Solving Transit Location Challenges'
 date = 2025-05-20T10:46:10+02:00
 draft = false
-authors = Tripela Authors
+authors = "Tripela Authors"
 description = "How to overcome GPS accuracy challenges in urban transit environments and deliver reliable location data for operations and passengers."
 +++
 

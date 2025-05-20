@@ -2,7 +2,7 @@
 title = 'Effective Driver Behavior Monitoring Using AVL Data in Public Transport'
 date = 2025-04-17T13:07:59+02:00
 draft = false
-authors = Tripela Authors
+authors = "Tripela Authors"
 description = "Learn how AVL systems enhance driver behavior monitoring in transit, improving safety with real-time data and performance metrics."
 +++
 
