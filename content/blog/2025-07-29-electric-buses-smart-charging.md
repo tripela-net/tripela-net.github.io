@@ -1,5 +1,5 @@
 +++
-title = 'Electric Buses Need Smart Charging or They'll Break Your Budget'
+title = "Electric Buses Need Smart Charging or They'll Break Your Budget"
 date = 2025-07-29T14:42:08+02:00
 draft = false
 authors = "Tripela Authors"
