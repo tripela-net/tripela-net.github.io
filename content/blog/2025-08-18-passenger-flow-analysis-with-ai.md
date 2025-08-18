@@ -1,7 +1,7 @@
 +++
 title = 'AI Cameras That Actually Help Operations Manage Crowds'
 date = 2025-08-18T11:08:30+02:00
-draft = true
+draft = false
 authors = "Tripela Authors"
 description = "How AI passenger flow analysis cuts crowding 20%, prevents dangerous platform conditions, and triggers real-time service adjustments automatically."
 +++
